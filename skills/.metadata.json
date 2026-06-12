@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "entries": {
+    "enrich-crew": {
+      "source": "github.com/karanmjpinto/mark/flue-agents/.agents/skills/enrich-crew",
+      "type": "github-subdir",
+      "installed_at": "2026-06-12T20:53:50.436218+02:00",
+      "repo_url": "https://github.com/karanmjpinto/mark.git",
+      "subdir": "flue-agents/.agents/skills/enrich-crew",
+      "version": "1c42529",
+      "tree_hash": "7e4a17e42506b84deb85374cc50268629368ad41",
+      "file_hashes": {
+        "SKILL.md": "sha256:0c666f60945050a0be0de20ddebce15f1c0d6696b4f1916e0381b4b3212044ac"
+      }
+    },
+    "generate-budget": {
+      "source": "github.com/karanmjpinto/mark/flue-agents/.agents/skills/generate-budget",
+      "type": "github-subdir",
+      "installed_at": "2026-06-12T20:53:50.47135+02:00",
+      "repo_url": "https://github.com/karanmjpinto/mark.git",
+      "subdir": "flue-agents/.agents/skills/generate-budget",
+      "version": "1c42529",
+      "tree_hash": "0259ef74d6575d39e5bf46443aab3e1a1276a424",
+      "file_hashes": {
+        "SKILL.md": "sha256:fa38adcc72ae78e9abbfda653f1bf85e78cdda4d409d6f072389a3f88192c3fa"
+      }
+    },
+    "refine-budget": {
+      "source": "github.com/karanmjpinto/mark/flue-agents/.agents/skills/refine-budget",
+      "type": "github-subdir",
+      "installed_at": "2026-06-12T20:53:50.497289+02:00",
+      "repo_url": "https://github.com/karanmjpinto/mark.git",
+      "subdir": "flue-agents/.agents/skills/refine-budget",
+      "version": "1c42529",
+      "tree_hash": "1f628487ab90905ea1d4401dbc436b5da4dd4deb",
+      "file_hashes": {
+        "SKILL.md": "sha256:c986bed32e0d1a45c2d1e6ae3d99adf59a66d427d4ac594a51a3ec3324701681"
+      }
+    },
+    "refine-callsheet": {
+      "source": "github.com/karanmjpinto/mark/flue-agents/.agents/skills/refine-callsheet",
+      "type": "github-subdir",
+      "installed_at": "2026-06-12T20:53:50.523737+02:00",
+      "repo_url": "https://github.com/karanmjpinto/mark.git",
+      "subdir": "flue-agents/.agents/skills/refine-callsheet",
+      "version": "1c42529",
+      "tree_hash": "753ad5dd70e4d54873f5870fc9dd4fa5dda03693",
+      "file_hashes": {
+        "SKILL.md": "sha256:bcfbf31deaf35b9f2361861691ace4755538145bb110160b42ee4f7ef26d6e44"
+      }
+    },
+    "render-callsheet-template": {
+      "source": "github.com/karanmjpinto/mark/flue-agents/.agents/skills/render-callsheet-template",
+      "type": "github-subdir",
+      "installed_at": "2026-06-12T20:53:50.547873+02:00",
+      "repo_url": "https://github.com/karanmjpinto/mark.git",
+      "subdir": "flue-agents/.agents/skills/render-callsheet-template",
+      "version": "1c42529",
+      "tree_hash": "5e7f490f4f244accf5c27e39d73395135b9967d7",
+      "file_hashes": {
+        "SKILL.md": "sha256:cacbe3e617c99d4a8e5c92787e9c994af3a3ff07cdbee7fb5b3e09e319d2af9f"
+      }
+    }
+  }
+}
